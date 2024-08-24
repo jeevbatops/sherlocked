@@ -1,0 +1,75 @@
+html{
+    background-color: antiquewhite;
+    font-family: "Noto Serif", sans-serif;
+    font-size: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    color: antiquewhite;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    font-size: 20px;
+    /*font-size: 2rem*/;
+}
+
+nav{
+    margin-top: 110px;
+    text-align: center;
+    background-color: azure;
+    padding: 0;
+}
+nav ul{
+    padding-left: 0%;
+}
+
+nav li{
+    display: inline-block;
+    width: 22%;
+    color: black;
+    font-size: 18px;
+}
+
+b{
+    color: black;
+    font-size: 18px;
+}
+
+.over-image{
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    display: block;
+    background-color: rgba(129, 128, 128, 0.263)
+}
+
+section{
+    display: flexbox;
+    flex-direction: column;
+}
+
+img{
+    display: block;
+}
+
+footer{
+    background-color: black;
+    padding-bottom: 10px;
+}
+
+form,.foot{
+    color: rgb(255, 255,255)
+}
+
+.random{
+    font-size: 18px;
+}
