@@ -9,6 +9,13 @@ body{
     padding: 0;
 }
 
+a{
+    text-decoration: none;
+}
+a:active{
+    color: blueviolet;
+}
+
 header{
     background-color: black;
     text-align: center;

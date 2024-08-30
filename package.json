@@ -1,0 +1,15 @@
+{
+  "name": "sherlocked",
+  "version": "1.0.0",
+  "description": "An intermediate skill testing website which is done in love of web_dev and Sherlock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
